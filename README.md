@@ -16,4 +16,4 @@ ps. Don't forget to delete the above and edit the below in your own `README.md`.
 This is a numix inspired theme changed to fit with night-time developers.
 I stole the base theme from [tsbarnes](https://github.com/tsbarnes/numix-ui) and changed some colors.
 
-![A screenshot of your theme](https://cloud.githubusercontent.com/assets/378023/8842525/4215f26c-3136-11e5-9d94-d2c078a05d24.png)
+![A screenshot of your theme](numix-dark-ui-screen.png)
